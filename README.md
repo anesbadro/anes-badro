@@ -24,6 +24,5 @@
 - 🔜 Learn React & TypeScript
 - 🔜 Start a personal finance blog
 
----
 
 Thanks for visiting my profile! 🌟
